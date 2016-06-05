@@ -1,5 +1,5 @@
 # SQLSockets
-Custom API used in my projects to easily manage SQL & Sockets.
+Custom API used in my Bukkit/Spigot projects to easily manage SQL & Sockets.
 
 Current features:
 - Socket Managing
